@@ -1,1 +1,2 @@
 Zo kunnen we testen of we ook lokaal de bestanden krijgen na een pull te doen.
+Nu voeg ik hier nog een regel toe die anders is dan de regel die ik lokaal toevoeg.
