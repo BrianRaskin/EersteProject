@@ -1,1 +1,2 @@
 Zo kunnen we testen of we ook lokaal de bestanden krijgen na een pull te doen.
+Hier probeer ik hetzelfde als op GitHub, een regel in te voeren die niet overeenkomt.
