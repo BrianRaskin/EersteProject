@@ -1,0 +1,1 @@
+Zo kunnen we testen of we ook lokaal de bestanden krijgen na een pull te doen.
